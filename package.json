@@ -1,0 +1,21 @@
+{ 
+   "name": "translate4comp",
+  "version": "1.9.3",
+  "description": "轻量级组件化开发 模块(程序包)是可以快速、灵活地实现网页组件化方式开发的程序包。开发者只需要符合简单的语法，通过开发可以\r 嵌套和重用的简单的tou文件，就可以组合出复杂完善的网页应用。",
+  "main": "translate4comp.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "轻量级",
+    "组件化开发",
+    "node.js"
+  ],
+  "author": "kingver",
+  "funding":"http://156.232.13.161:81/pages/index.html",
+  "license": "ISC"
+}
+
